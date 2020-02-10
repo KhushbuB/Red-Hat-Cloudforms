@@ -1,6 +1,5 @@
 [Red Hat CloudForms](https://access.redhat.com/products/red-hat-cloudforms) is a one platform for multiple providers to be integrated at one single point. Different Cloud, Infrastructure, Container providers can be added to Red Hat CloudForms. Red Hat CloudForms is a Red Hat managed product for an upstream [ManageIQ](https://www.manageiq.org/) community version with Ivanchuk 5.0 as the latest release.
-
-CloudForms Management Engine [ CFME ] is a set of packages shipped in the product. CFME is like any other machine `evmserverd` service running on the appliance. The default credentials for the appliance to login at the webUI is admin|smartvm.
+CloudForms Management Engine [ CFME ] is a set of packages shipped in the product. CFME is like any other machine `evmserverd` service running on the appliance. The default credentials for the appliance to login at the webUI is admin/smartvm.
 
 Below we shall try to integrate Red Hat Virtualization as a Infrastructure provider to the environment and try creating new virtual machines in the newly integrated provider.
 
